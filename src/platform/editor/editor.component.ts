@@ -85,7 +85,7 @@ export class EditorComponent extends BaseEditor implements ControlValueAccessor 
       this.zone.run(() => this._value = value);
     });
 
-    this._editor.onDidBlurEditor((e: any) => {
+    this._editor.onDidBlurEditorWidget((e: any) => {
       this.onTouched();
     });
 
