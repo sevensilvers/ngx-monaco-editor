@@ -1,8 +1,8 @@
 {
-  "name": "ngx-monaco-editor",
-  "version": "6.0.0",
+  "name": "ngx-monaco-pencil",
+  "version": "7.1.1-rc.1",
   "private": false,
-  "description": "Monaco Code Editor for Angular",
+  "description": "Monaco Code Editor for Angular forked from ngx-monaco-editor",
   "main": "./editor.umd.js",
   "module": "./index.js",
   "typings": "./index.d.ts",
